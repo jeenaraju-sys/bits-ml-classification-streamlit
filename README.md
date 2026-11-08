@@ -14,7 +14,7 @@ Build and deploy an interactive machine-learning classification application that
 - The project includes `data/wdbc_dataset.csv` and the held-out `test_data.csv`.
 
 ## c. GitHub Repository Link
-Add your public GitHub repository URL here after pushing this project:
+Add the public GitHub repository URL here after pushing this project:
 
 **GitHub:** https://github.com/jeenaraju-sys/bits-ml-classification-streamlit
 
@@ -89,10 +89,10 @@ python train_models.py
 1. Create/sign in to GitHub and create a **public** repository.
 2. Upload all project files and folders from this project. Ensure `app.py`, `requirements.txt`, `README.md`, `test_data.csv`, and `models/` are at the repository root.
 3. Visit https://share.streamlit.io/ (or https://streamlit.io/cloud) and sign in with GitHub.
-4. Choose **Create app / New app**, select your repository and `main` branch.
+4. Choose **Create app / New app**, select the repository and `main` branch.
 5. Set the main file path to `app.py`, then deploy.
 6. Wait for the build to finish. Open the app URL and test the sidebar, comparison page, model metrics, charts, and CSV upload.
-7. Copy the public app URL into your assignment PDF.
+7. Copy the public app URL into the assignment PDF.
 
 **Live Streamlit App:** https://bits-ml-classification-app.streamlit.app/
 
@@ -117,7 +117,7 @@ classification_dashboard_project/
 ```
 
 ## Important submission notes
-- Capture your **own screenshot** of the assignment running in BITS Virtual Lab.
+- Capture the ** screenshot** of the assignment running in BITS Virtual Lab.
 - Add the actual GitHub URL and deployed Streamlit URL to the final PDF.
 - Include this README content in the final PDF, along with the BITS Virtual Lab screenshot.
 - The included `test_data.csv` is the labeled hold-out test set used for the reported comparison metrics.
