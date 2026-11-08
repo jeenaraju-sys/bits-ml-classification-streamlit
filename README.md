@@ -117,7 +117,7 @@ classification_dashboard_project/
 ```
 
 ## Important submission notes
-- Capture your **own screenshot** of the assignment running in BITS Virtual Lab. Do not use a mockup or a screenshot from another environment.
+- Capture your **own screenshot** of the assignment running in BITS Virtual Lab.
 - Add the actual GitHub URL and deployed Streamlit URL to the final PDF.
 - Include this README content in the final PDF, along with the BITS Virtual Lab screenshot.
 - The included `test_data.csv` is the labeled hold-out test set used for the reported comparison metrics.
